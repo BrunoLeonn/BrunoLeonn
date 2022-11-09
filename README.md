@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Bruno Leonn! 👋
 
-- 🔭 Trabalho com HTML
+- 🔭 Trabalho com Desenvolvimento WEB e Mobile
 - 🌱 Estudando Back End
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Super Nintendo
