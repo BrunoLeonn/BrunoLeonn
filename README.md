@@ -1,9 +1,9 @@
 ## Olá, Eu sou o Bruno Leonn! 👋
 
-- 🔭 Trabalho com Desenvolvimento WEB e Mobile
-- 🌱 Estudando Back End
+- 🔭 Trabalho na área de finanças corporativas e crédito
+- 🌱 Estudando Data Science com Python
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Super Nintendo
+- ⚡ Fun fact: Games and Nintendo
 
 <div align="center">
     <a href="https://github.com/BrunoLeonn">
